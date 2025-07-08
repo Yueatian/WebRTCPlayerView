@@ -1,0 +1,6 @@
+framework module Pods_WebRTCPlayerView {
+  umbrella header "Pods-WebRTCPlayerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
